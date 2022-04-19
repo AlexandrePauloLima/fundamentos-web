@@ -1,0 +1,43 @@
+/* Estilo da página index.html*/
+
+.center {
+    text-align: center ;
+}
+
+.container {
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center ;
+}
+#menu li {
+    display : inline; 
+    padding: 30 PX ;
+
+}
+.P-30 {
+    padding: 30px;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+.wh {
+    width: 500px;
+    height: 500px;
+} 
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    /*Itens centralizado*/
+    align-items: center;
+    /*Texto centralizado*/
+    text-align: center;
+    padding-left: 20px;
+}
+.container img {
+    width: 690px ;
+    height: auto;
+    padding-right: 20px;
+}
