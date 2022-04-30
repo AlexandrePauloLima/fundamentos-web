@@ -1,0 +1,33 @@
+            @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wght@200;400&family=Oswald:wght@700&display=swap');
+            /*
+Estililos da pagina index.html
+*/
+            
+            .nav-bg {
+                background-color: rgb(21, 226, 199) !important;
+            }
+            
+            #titulo {
+                text-align: center;
+                /*font-family tipo de fonte do Mundo selvagem*/
+                font-family: 'Noto Serif Display', serif;
+                font-size: 50px;
+                /*font-weight se trata do peso do negrito no nome MUNDO SELVAGEM*/
+                font-weight: 500;
+            }
+            
+            #titulo span {
+                background-color: rgb(21, 226, 199);
+            }
+            
+            #titulo2 {
+                text-align: center;
+                color: aliceblue;
+                /*font-family tipo de fonte do CURIOSIDADES E BENEFICIOS DE TER UM PET*/
+                font-family: 'Noto Serif', serif;
+                font-size: 25px;
+                /*font-weight se trata do peso do negrito no nome CURIOSIDADES E BENEFICIOS DE TER UM PET*/
+                font-weight: 600;
+            }
+            /*
+Estililos da pagina contato.html*/
